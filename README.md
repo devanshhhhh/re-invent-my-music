@@ -4,7 +4,7 @@
 - Playlist generator: User can select desired artists and a randomized private playlist would be added to user’s account with top tracks by the selected artists.
 - Playlist On-the-go: Once started, the application collects all the tracks that user plays, later displays all played tracks and gives the option to add all of them in a private playlist with just one click. The service can be paused as well.
 
-Backend repo: <a href='https://github.com/devanshhhhh/spotify-oauth-authorization-flow.git'>Generalised server code</a>
+Backend repo: <a href='https://github.com/devanshhhhh/spotify-oauth-authorization-flow.git'>Generalised server code</a> <br/>
 Deployed website: <a href='https://re-invent-my-music.vercel.app'>re-invent-my-music</a>
 
 
